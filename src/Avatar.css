@@ -1,0 +1,8 @@
+*{
+    box-sizing: border-box;
+}
+.avatarstyle img{
+    width: 200px;
+    height:200px;
+}
+ 
